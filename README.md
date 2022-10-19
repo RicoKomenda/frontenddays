@@ -19,3 +19,7 @@ https://codepen.io/ricokomenda/pen/ExLzMOq
 ## Clickjacking
 
 https://codepen.io/ricokomenda/pen/rNvgQNr
+
+## Web cache poising
+
+https://portswigger.net/web-security/web-cache-poisoning
