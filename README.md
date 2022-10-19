@@ -23,3 +23,7 @@ https://codepen.io/ricokomenda/pen/rNvgQNr
 ## Web cache poising
 
 https://portswigger.net/web-security/web-cache-poisoning
+
+## Referrer-Policy - Best Practices
+
+https://web.dev/referrer-best-practices/
