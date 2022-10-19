@@ -1,6 +1,6 @@
 # Angriffsvektoren im Frontend und wie man sie verhindert
 
-## XXS Challenge
+## XSS Challenge
 
 https://codepen.io/ricokomenda/pen/oNdOBgX
 
