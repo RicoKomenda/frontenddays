@@ -4,7 +4,7 @@
 
 https://codepen.io/ricokomenda/pen/oNdOBgX
 
-## Content Security Policy
+## Content Security Policy - How To (Blog)
 
 https://blog.sucuri.net/2021/10/how-to-set-up-a-content-security-policy-csp-in-3-steps.html
 
