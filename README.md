@@ -12,6 +12,10 @@ https://blog.sucuri.net/2021/10/how-to-set-up-a-content-security-policy-csp-in-3
 
 https://book.hacktricks.xyz/pentesting-web/xs-search/css-injection
 
+## Regex Hands-On
+
+https://codepen.io/ricokomenda/pen/ExLzMOq
+
 ## Clickjacking
 
 https://codepen.io/ricokomenda/pen/rNvgQNr
